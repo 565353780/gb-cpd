@@ -1,3 +1,5 @@
+./compile.sh
+
 ./bcpd \
   -x /home/chli/chLi/Dataset/arap_test/result_xyz.txt \
   -y /home/chli/chLi/Dataset/arap_test/target_xyz.txt \
