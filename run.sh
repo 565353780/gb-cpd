@@ -1,4 +1,4 @@
-make OPT=-DUSE_OPENMP ENV=LINUX
+./compile.sh
 
 ./bcpd \
   -x /home/chli/chLi/Dataset/arap_test/result_xyz.txt \
